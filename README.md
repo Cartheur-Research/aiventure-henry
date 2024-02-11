@@ -1,6 +1,6 @@
 # aiventure-henry
 
-Public code repository of a second-generation implementation of aiventure-aeon is hosted inside a toy bear. This repository is the public release of this idea with routines you are free to experiment with as long as you honour the license.
+Public code repository of a second-generation implementation of _aeon_ embodied as a toy bear. This repository is the public release of this idea with routines you are free to experiment with as long as you honour the license.
 
 ## Background
 
